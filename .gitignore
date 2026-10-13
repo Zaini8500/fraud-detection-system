@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.venv*/
+venv/
+pip-tmp/
+.pip-tmp/
+
+# Data (regenerate with: python data/generate.py)
+data/transactions.csv
+data/kaggle/
+
+# Full-size training artefacts (the compact serving copies under api/artifacts ARE committed)
+models/artifacts/xgb_model.ubj
+models/artifacts/xgb_sklearn.joblib
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp

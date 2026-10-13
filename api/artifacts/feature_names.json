@@ -1,0 +1,1 @@
+["amount", "hour", "day_of_week", "card_present", "is_international", "txn_velocity_1h", "amount_velocity_1h", "distance_from_home_km", "failed_attempts_24h", "device_changed", "avg_amount_30d", "amount_to_avg_ratio", "mcc_grocery", "mcc_fuel", "mcc_restaurant", "mcc_travel", "mcc_electronics", "mcc_fashion", "mcc_atm", "mcc_online"]

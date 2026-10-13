@@ -1,0 +1,4 @@
+# Minimal serving dependencies for the Vercel Python serverless functions.
+# The vendored predictor (api/_xgb_runtime.py) is pure numpy -- xgboost, shap
+# and pandas are intentionally NOT included: they are too heavy for serverless.
+numpy>=1.24

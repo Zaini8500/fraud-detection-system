@@ -76,7 +76,7 @@ export default function ModelInfo({ api }) {
           </div>
         )}
         <p className="note" style={{ marginTop: 14 }}>
-          <img src="/shap_summary.png" alt="SHAP summary plot" style={{ width: '100%', borderRadius: 10, border: '1px solid var(--card-border)' }} />
+          <img src="/shap_summary.svg" alt="SHAP summary plot" style={{ width: '100%', borderRadius: 10, border: '1px solid var(--card-border)', background: '#fff' }} />
           SHAP summary plot generated during training (beeswarm of exact SHAP values per feature).
         </p>
       </div>

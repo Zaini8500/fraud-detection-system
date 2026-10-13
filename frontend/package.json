@@ -1,0 +1,1 @@
+{"dependencies":{"react":"^18.3.1","react-dom":"^18.3.1","react-router-dom":"^6.26.2","recharts":"^2.12.7"},"devDependencies":{"@vitejs/plugin-react":"^4.3.3","vite":"^5.4.8"},"engines":{"node":">=18"},"name":"fraud-detection-dashboard","private":true,"scripts":{"build":"vite build","dev":"vite","preview":"vite preview"},"type":"module","version":"1.0.0"}
